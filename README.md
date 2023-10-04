@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/luandretta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lucimeri+Andretta;Full+Stack+Software+Development;JavaScript+%7C+React.js+%7C+CSS+%7C+HTML+%7C+Bootstrap+%7C+Python+%7C+Django+%7C+JQuery+%7C+Rest+API" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=180&lines=Lucimeri+Andretta;Full+Stack+Software+Development;JavaScript+%7C+React.js+%7C+CSS+%7C+HTML+%7C+Bootstrap;Python+%7C+Django+%7C+JQuery+%7C+Rest+API" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/luandretta/">

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/luandretta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=180&lines=Lucimeri+Andretta;Full+Stack+Software+Development;JavaScript+%7C+React.js+%7C+CSS+%7C+HTML+%7C+Bootstrap;Python+%7C+Django+%7C+JQuery+%7C+Rest+API" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=180&lines=Lucimeri+Andretta;Full+Stack+Software+Developer;JavaScript+%7C+React.js+%7C+CSS+%7C+HTML+%7C+Bootstrap;Python+%7C+Django+%7C+JQuery+%7C+Rest+API+%7C+Flask;Agile+Methodology" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/luandretta/">
@@ -26,7 +26,9 @@
 
 - 📫 How to reach me: through my Linkedin or email
 
-  ### 🖥️ Projects
+- - - 
+
+### 🖥️ Projects
 
   During the course I developed 5 projects described in the table below. 4 have already obtained their results and all 4 got merit grade. The last one, Frontend Advanced, is still being evaluated (sent on 29.09.23 and the average time for evaluation is 8-10 weeks).
 
@@ -41,11 +43,11 @@
 
 ✨ All projects have documentation in README.md of their repositories ✨
 
-- 📌 I have other small projects such as Adopt-me, made during the React course by Front End Masters, all of which are in the list of repositories here on Github.
+📌 I have other small projects such as Adopt-me, made during the React course by Front End Masters, all of which are in the list of repositories here on Github.
 
+- - -
 
-<details>
-<summary>📈 My Github Stats</summary>
+📈 My Github Stats
 <br>
 
 
@@ -55,5 +57,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luandretta&theme=city_lights)
 
-</details>
 

@@ -44,5 +44,16 @@
 - 📌 I have other small projects such as Adopt-me, made during the React course by Front End Masters, all of which are in the list of repositories here on Github.
 
 
+<details>
+<summary>📈 My Github Stats</summary>
+<br>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luandretta&theme=city_lights) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luandretta&theme=city_lights) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luandretta&theme=city_lights)
+
+</details>
 

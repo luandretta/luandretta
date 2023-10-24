@@ -37,8 +37,8 @@
 | Worth a Trip  | React.js, Rest API, React Bootstrap  | [Worth a Trip Website](https://worth-a-trip-drf-40e2fa952827.herokuapp.com)  | [Worth a Trip Repository](https://github.com/luandretta/worth-a-trip-drf)  | 
 | Titbit  | HTML, CSS, JavaScript, Python, Django, Bootstrap |  [Titibit Website](https://titbit-network.herokuapp.com) |  [Titibit Repository](https://github.com/luandretta/network)  | 
 | Python Quiz | Python, Google Sheets API  |  [Python Quiz Website](https://quizpython.herokuapp.com) |  [Python Quiz Repository](https://github.com/luandretta/quiz-python) | 
-|  My to do list | JavaScript, HTML5, CSS3  | [My to do List Website](https://github.com/luandretta/my-to-do-list)  | [My to do List Repository](https://luandretta.github.io/my-to-do-list)  | 
-| Night Clicks | HTML5, CSS3  | [Night Clicks Website](https://github.com/luandretta/night-clicks)  |  [Night Clicks Repository](https://luandretta.github.io/night-clicks) |  
+|  My to do list | JavaScript, HTML5, CSS3  | [My to do List Website](https://luandretta.github.io/my-to-do-list) | [My to do List Repository](https://github.com/luandretta/my-to-do-list)   | 
+| Night Clicks | HTML5, CSS3  | [Night Clicks Website](https://luandretta.github.io/night-clicks)  |  [Night Clicks Repository](https://github.com/luandretta/night-clicks) |  
 
 
 ✨ All projects have documentation in README.md of their repositories ✨
